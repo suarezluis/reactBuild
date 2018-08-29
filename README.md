@@ -2,12 +2,14 @@
 
 This is just a build of my project React Tube
 
-# Source Code
+## Source Code
 
 https://github.com/suarezluis/reactBuild
 
-#Github Deployment
+## Github Deployment
+
 https://suarezluis.github.io/reactBuild/
 
-#Heroku Deployment
+## Heroku Deployment
+
 https://my-react-tube.herokuapp.com/
